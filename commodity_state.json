@@ -1,0 +1,20 @@
+{
+  "GC=F_bearish": {
+    "first_detected": "2025-10-16 18:06:14.643348+05:30",
+    "max_timeframe": "5m",
+    "trend_strength": 1,
+    "last_updated": "2025-10-16 18:06:14.643348+05:30"
+  },
+  "SI=F_bearish": {
+    "first_detected": "2025-10-16 18:06:14.643348+05:30",
+    "max_timeframe": "30m",
+    "trend_strength": 1,
+    "last_updated": "2025-10-16 18:55:41.520228+05:30"
+  },
+  "CL=F_bullish": {
+    "first_detected": "2025-10-16 21:52:03.414752+05:30",
+    "max_timeframe": "5m",
+    "trend_strength": 1,
+    "last_updated": "2025-10-16 21:52:03.414752+05:30"
+  }
+}
